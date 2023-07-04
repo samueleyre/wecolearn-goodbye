@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.logo {
+    width: 400px;
+}
+
+h1, h2, h3, h4, h5, h6, p, span {
+    font-family: "Raleway", sans-serif;
+}
+
+h1 {
+    background-color: #501B4A;
+    color: white;
+    border-left: 10px solid #ffc600;
+    padding: 20px;
+}
